@@ -4,7 +4,7 @@ Donate Link: https://PayPal.me/gagan0123
 Tags: Shortcode, Widget
 Requires at least: 3.3
 Requires PHP: 5.6
-Tested up to: 6.2.2
+Tested up to: 6.9
 Stable tag: 1.5.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -63,7 +63,7 @@ To test the widget you can add the widget and use the shortcode "[shortcode_widg
 = 1.1 =
 * Reflecting the changes that have been done to the default text widget over the years.
 
-= 1.0 = 
+= 1.0 =
 * Tested with WP 4.0
 
 = 0.3 =
